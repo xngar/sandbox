@@ -1,0 +1,17 @@
+.cuadrado {
+  background-color: white;
+  width: fit-content;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 5px;
+}
+
+.activo {
+  color: green;
+}
+
+h2 {
+}

@@ -1,0 +1,22 @@
+.contenedor-layout {
+  background-color: red;
+  width: 100vw;
+}
+
+.contenedor-layout > div ul {
+  display: flex;
+  gap: 30px;
+}
+.contenedor-layout > div ul li {
+  list-style: none;
+  cursor: pointer;
+}
+
+.contenedor-layout > div ul li:hover {
+  color: white;
+}
+
+.footer {
+  width: 100vw;
+  height: 1500px;
+}
