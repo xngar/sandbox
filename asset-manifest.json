@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xngar.github.io/sandbox/static/css/main.d5436584.css",
+    "main.js": "/xngar.github.io/sandbox/static/js/main.6db65dd0.js",
+    "index.html": "/xngar.github.io/sandbox/index.html",
+    "main.d5436584.css.map": "/xngar.github.io/sandbox/static/css/main.d5436584.css.map",
+    "main.6db65dd0.js.map": "/xngar.github.io/sandbox/static/js/main.6db65dd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5436584.css",
+    "static/js/main.6db65dd0.js"
+  ]
+}
