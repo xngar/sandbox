@@ -35,6 +35,7 @@ const Contacto = () => {
   return (
     <div>
       <h1>Cantidad ({paisesSelector.length})</h1>
+      <p>Esto es una descripcion para el archivo</p>
       <h3>
         {paisesSelector.map((paises) => {
           return (
